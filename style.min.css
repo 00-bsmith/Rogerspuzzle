@@ -48,8 +48,8 @@ body {
 .box {
   position: relative;
   touch-action: none;
-  background-image: url(wsuMap.jpg);
-  background-size: contain;
+  background-image: url(wsuMap5.png);
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
